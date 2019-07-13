@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "306214927190",
+    "firebase_url": "https://restuarantapp-f55da.firebaseio.com",
+    "project_id": "restuarantapp-f55da",
+    "storage_bucket": "restuarantapp-f55da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306214927190:android:35bd458488a83fa0",
+        "android_client_info": {
+          "package_name": "com.broastown"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306214927190-d1jit1p1c2a5m6lh8rstp7f5ljves22c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClAoNejTfalVahiF0s9t6lyaqT9zu2Sr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306214927190-d1jit1p1c2a5m6lh8rstp7f5ljves22c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
